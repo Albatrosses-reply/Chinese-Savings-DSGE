@@ -31,7 +31,7 @@ Approach:
 
 ### 2) Python Dependencies:
    Make sure you have the following libraries installed:
-       pip install pandas numpy matplotlib statsmodels pandas_datareader
+       pip install pandas numpy matplotlib statsmodels pandas_datareader seaborn
 
    Required Libraries:
    - pandas
