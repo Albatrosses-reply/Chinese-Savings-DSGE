@@ -39,6 +39,7 @@ Approach:
    - matplotlib
    - statsmodels
    - pandas_datareader
+   - seaborn
 
 ### 3) Running the Bayesian Estimation (MATLAB + Dynare):
    - Navigate to the "Bayesian estimation/" folder in MATLAB.
