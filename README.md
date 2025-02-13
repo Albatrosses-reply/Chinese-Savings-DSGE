@@ -17,7 +17,7 @@ Goal:
 
 Approach:
 - **DSGE Model (MATLAB + Dynare)**: Two-Agent New Keynesian (TANK) framework, capturing Rule-of-Thumb households and Ricardian households.
-- **Bayesian Estimation**: Parameter estimation using quarterly data (e.g., GDP, government spending, capital, interest rates).
+- **Bayesian Estimation**: Parameter estimation using quarterly data.
 - **SVAR Analysis (Python)**: Validate DSGE findings and analyze policy impacts using actual time-series data.
 
 --------------------------------
